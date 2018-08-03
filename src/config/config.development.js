@@ -4,7 +4,7 @@ import logger from "../lib/logger.js";
 console.log("configuracion de desarrollo activada");
 //Archivo de configuracion para conexion a la base de datos
 module.exports = {
-    database: "plantillas_db", // "plantillas_db"
+    database: "plantillas", // "plantillas_db"
     username: "postgres", // "postgres"
     password: "postgres", // "123abc"
     ruta_externos:"./public/documentos", // ".public/externos"
