@@ -21,7 +21,7 @@ module.exports = {
     sistema:{
       usar_ldap:false,
       // remover el [], dejar solamente el numero identificador.
-      director:2 ,
+      director:1 ,
       direccion:1,
       // Cantidad de digitos que posee el cite.
       cite_ceros:5,
@@ -30,7 +30,7 @@ module.exports = {
     },
     // Configuracion de correo para un cliente postfix.
     correo: {
-      port: 2255, // 25
+      port: 25, // 25
       host: "localhost", // localhost
       remitente: "Plantillas", // Sistema de ...
       origen: "admin@localhost.com", // example@abc.de

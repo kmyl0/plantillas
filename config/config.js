@@ -5,7 +5,7 @@ module.exports = {
     "development": {
       "username": "postgres",
       "password": "postgres",
-      "database": "plantillas_db",
+      "database": "plantillas",
       "host": "localhost",
         "dialect": "postgres",
         "pool": {
