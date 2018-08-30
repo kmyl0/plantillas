@@ -21,12 +21,12 @@ module.exports = {
     sistema:{
       usar_ldap:false,
       // remover el [], dejar solamente el numero identificador.
-      director:1 ,
+      director:2 ,
       direccion:1,
       // Cantidad de digitos que posee el cite.
-      cite_ceros:5,
+      cite_ceros:4,
       // Descripcion guia del cite, [miCiteGuia]/IT/0001/2017
-      cite_principal:'CITE'
+      cite_principal:'NUR'
     },
     // Configuracion de correo para un cliente postfix.
     correo: {

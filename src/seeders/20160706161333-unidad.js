@@ -12,64 +12,120 @@ module.exports = {
         _usuario_modificacion:1
       },
       {
-        nombre: 'Gerencia de Informatica y Comunicaciones',
-        abreviacion: 'GIC',
+        nombre: 'Recursos Humanos',
+        abreviacion: 'RRHH',
         _fecha_creacion: new Date(),
         _fecha_modificacion: new Date(),
         _usuario_creacion: 1,
         _usuario_modificacion:1
       },
       {
-        nombre: 'Gerencia Comercial',
-        abreviacion: 'GCO',
+        nombre: 'Auditoria Interna',
+        abreviacion: 'AI',
         _fecha_creacion: new Date(),
         _fecha_modificacion: new Date(),
         _usuario_creacion: 1,
         _usuario_modificacion:1
       },
       {
-        nombre: 'Gerencia Adminsitrativa Financiera',
-        abreviacion: 'GAF',
+        nombre: 'Seguridad de la Información',
+        abreviacion: 'SI',
         _fecha_creacion: new Date(),
         _fecha_modificacion: new Date(),
         _usuario_creacion: 1,
         _usuario_modificacion:1
       },
       {
-        nombre: 'Gerencia de Asuntos Administrativos',
-        abreviacion: 'GAA',
+        nombre: 'OyM',
+        abreviacion: 'OM',
         _fecha_creacion: new Date(),
         _fecha_modificacion: new Date(),
         _usuario_creacion: 1,
         _usuario_modificacion:1
       },
       {
-        nombre: 'Jefatura de Infraestructura',
-        abreviacion: 'JIN',
+        nombre: 'Departamento de Informática y Comunicaciones',
+        abreviacion: 'DIC',
         _fecha_creacion: new Date(),
         _fecha_modificacion: new Date(),
         _usuario_creacion: 1,
         _usuario_modificacion:1
       },
       {
-        nombre: 'Jefatura de XXX',
-        abreviacion: 'JXX',
+        nombre: 'Departamento Juridico Legal',
+        abreviacion: 'DJL',
         _fecha_creacion: new Date(),
         _fecha_modificacion: new Date(),
         _usuario_creacion: 1,
         _usuario_modificacion:1
       },
       {
-        nombre: 'Seccion de Redes',
-        abreviacion: 'SRE',
+        nombre: 'Departamento Administrativo Financiero',
+        abreviacion: 'DAF',
         _fecha_creacion: new Date(),
         _fecha_modificacion: new Date(),
         _usuario_creacion: 1,
         _usuario_modificacion:1
       },
       {
-        nombre: 'Seccion de Desarrollo',
-        abreviacion: 'SDE',
+        nombre: 'Departamento de Seguros',
+        abreviacion: 'DSE',
+        _fecha_creacion: new Date(),
+        _fecha_modificacion: new Date(),
+        _usuario_creacion: 1,
+        _usuario_modificacion:1
+      },
+      {
+        nombre: 'Contabilidad',
+        abreviacion: 'JCO',
+        _fecha_creacion: new Date(),
+        _fecha_modificacion: new Date(),
+        _usuario_creacion: 1,
+        _usuario_modificacion:1
+      },
+      {
+        nombre: 'Servicios Generales, Activos Fijos y Almacenes',
+        abreviacion: 'JSG',
+        _fecha_creacion: new Date(),
+        _fecha_modificacion: new Date(),
+        _usuario_creacion: 1,
+        _usuario_modificacion:1
+      },
+      {
+        nombre: 'Tesoreria',
+        abreviacion: 'STE',
+        _fecha_creacion: new Date(),
+        _fecha_modificacion: new Date(),
+        _usuario_creacion: 1,
+        _usuario_modificacion:1
+      },
+      {
+        nombre: 'Archivo',
+        abreviacion: 'SAR',
+        _fecha_creacion: new Date(),
+        _fecha_modificacion: new Date(),
+        _usuario_creacion: 1,
+        _usuario_modificacion:1
+      },
+      {
+        nombre: 'Jefatura de Cartera',
+        abreviacion: 'JCA',
+        _fecha_creacion: new Date(),
+        _fecha_modificacion: new Date(),
+        _usuario_creacion: 1,
+        _usuario_modificacion:1
+      },
+      {
+        nombre: 'Regional Santa Cruz',
+        abreviacion: 'RSC',
+        _fecha_creacion: new Date(),
+        _fecha_modificacion: new Date(),
+        _usuario_creacion: 1,
+        _usuario_modificacion:1
+      },
+      {
+        nombre: 'Regional Cochabamba',
+        abreviacion: 'RCB',
         _fecha_creacion: new Date(),
         _fecha_modificacion: new Date(),
         _usuario_creacion: 1,

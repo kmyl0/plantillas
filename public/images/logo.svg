@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -7,22 +7,31 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   id="Capa_1"
-   x="0px"
-   y="0px"
-   viewBox="0 54.5 200 80"
-   xml:space="preserve"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="logoAgetic3.svg"
-   width="100%"
-   height="100%"><metadata
-     id="metadata252"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs250" /><sodipodi:namedview
+   id="svg3767"
+   width="349"
+   height="83"
+   viewBox="0 0 349 83"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (d244b95, 2018-08-02)">
+  <metadata
+     id="metadata3773">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3771" />
+  <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -31,824 +40,162 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="960"
-     id="namedview248"
+     inkscape:window-width="1313"
+     inkscape:window-height="713"
+     id="namedview3769"
      showgrid="false"
-     inkscape:zoom="4.6197643"
-     inkscape:cx="82.096335"
-     inkscape:cy="21.545915"
-     inkscape:window-x="0"
+     inkscape:zoom="3.286533"
+     inkscape:cx="154.55898"
+     inkscape:cy="43.803455"
+     inkscape:window-x="47"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3233" /><style
-     type="text/css"
-     id="style3">
-	.st0{fill:none;}
-	.st1{enable-background:new    ;}
-	.st2{fill:#FFFFFF;}
-	.st3{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
-	.st4{opacity:0.5;fill:#FFFFFF;enable-background:new    ;}
-</style><rect
-     id="XMLID_1_"
-     x="120.12245"
-     y="2.3000031"
-     class="st0"
-     width="261"
-     height="76.400002"
-     style="fill:none" /><ellipse
-     id="XMLID_86_"
-     class="st2"
-     cx="56.322449"
-     cy="109.1"
-     style="fill:#ffffff"
-     r="0.89999998"
-     rx="0"
-     ry="0"
-     sodipodi:cx="56.322449"
-     sodipodi:cy="109.1"
-     sodipodi:rx="0"
-     sodipodi:ry="0"
-     transform="translate(0,-63.5)" /><ellipse
-     id="XMLID_10_"
-     class="st3"
-     cx="64.422447"
-     cy="116.6"
-     style="opacity:0.8;fill:#ffffff;enable-background:new"
-     r="1.3"
-     rx="0"
-     ry="0"
-     sodipodi:cx="64.422447"
-     sodipodi:cy="116.6"
-     sodipodi:rx="0"
-     sodipodi:ry="0"
-     transform="translate(0,-63.5)" /><g
-     id="g3332"
-     transform="translate(-5.0408163,55.102041)"><g
-       id="g3233"><rect
-         id="XMLID_2_"
-         x="31.050503"
-         y="50.530777"
-         class="st0"
-         width="175.425"
-         height="27.272188"
-         style="fill:none;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><g
-         class="st1"
-         id="g143"
-         transform="matrix(0.55885634,0,0,0.55885634,4.3485755,-12.166054)"
-         style="enable-background:new;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><path
-           class="st2"
-           d="m 114.5,115.1 18.4,-46.2 6.5,0 18.1,46.2 -7.1,0 -5,-12.8 -19.6,0 -5.1,12.8 -6.2,0 z m 13.1,-17.7 15.7,0 -7.8,-19.9 -7.9,19.9 z"
-           id="path145"
-           inkscape:connector-curvature="0"
-           style="fill:#300024;fill-opacity:1" /><path
-           class="st2"
-           d="m 201.8,113.9 c -4,1.2 -7,1.9 -8.9,2.1 -1.9,0.2 -3.8,0.3 -5.8,0.3 -5.5,0 -9.9,-1 -13.1,-3 -3.2,-2 -5.6,-4.9 -7.2,-8.7 -1.7,-3.8 -2.5,-8 -2.5,-12.6 0,-7.1 1.9,-12.9 5.6,-17.5 3.8,-4.5 9.5,-6.8 17.1,-6.8 4.6,0 9.5,0.7 14.6,2.1 l 0,6.1 c -4.7,-1.6 -7.9,-2.5 -9.7,-2.8 -1.8,-0.3 -3.4,-0.4 -5,-0.4 -5.6,0 -9.6,1.9 -12,5.7 -2.5,3.8 -3.7,8.4 -3.7,13.7 0,3.3 0.5,6.4 1.6,9.3 1.1,2.9 2.8,5.3 5.3,7.2 2.5,1.9 5.8,2.8 10,2.8 1.1,0 2.1,-0.1 3,-0.2 0.9,-0.1 2.3,-0.4 4.1,-1 l 0,-15 6.6,0 0,18.7 z"
-           id="path147"
-           inkscape:connector-curvature="0"
-           style="fill:#300024;fill-opacity:1" /><path
-           class="st2"
-           d="m 216.2,115.1 0,-46.2 25.9,0 0,4.9 -19.3,0 0,14.8 16.2,0 0,4.8 -16.2,0 0,16.7 20.7,0 0,4.9 -27.3,0 z"
-           id="path149"
-           inkscape:connector-curvature="0"
-           style="fill:#300024;fill-opacity:1" /><path
-           class="st2"
-           d="m 264.8,115.1 0,-41.3 -16.4,0 0,-4.9 39.4,0 0,4.9 -16.4,0 0,41.3 -6.6,0 z"
-           id="path151"
-           inkscape:connector-curvature="0"
-           style="fill:#300024;fill-opacity:1" /><path
-           class="st2"
-           d="m 297.2,68.9 0,46.2 6.6,0 0,-46.2 -6.6,0 z"
-           id="path153"
-           inkscape:connector-curvature="0"
-           style="fill:#300024;fill-opacity:1" /><path
-           class="st2"
-           d="m 353.3,112.8 c -1.9,1 -3.6,1.7 -5.1,2.2 -1.5,0.5 -3,0.8 -4.6,1 -1.6,0.2 -3.3,0.3 -5.2,0.3 -7.8,0 -13.5,-2.3 -17.1,-6.9 -3.6,-4.6 -5.4,-10.4 -5.4,-17.3 0,-7.1 1.9,-12.9 5.6,-17.5 3.7,-4.5 9.5,-6.8 17.2,-6.8 4.1,0 9,0.7 14.5,2 l 0,6.2 c -4.7,-1.6 -7.9,-2.6 -9.6,-2.8 -1.8,-0.3 -3.4,-0.4 -5,-0.4 -5.5,0 -9.6,1.9 -12,5.6 -2.4,3.7 -3.7,8.4 -3.7,13.8 0,5.7 1.4,10.3 4.3,13.8 2.9,3.5 6.9,5.3 12.2,5.3 1.5,0 2.9,-0.1 4.4,-0.4 1.4,-0.3 2.9,-0.6 4.3,-1.2 1.4,-0.5 3.2,-1.3 5.3,-2.5 l 0,5.6 z"
-           id="path155"
-           inkscape:connector-curvature="0"
-           style="fill:#300024;fill-opacity:1" /></g><path
-         id="XMLID_94_"
-         class="st2"
-         d="m 23.852661,42.49009 c -0.50297,-0.16766 -0.838284,-0.72651 -0.670627,-1.22948 0.167657,-0.55886 0.726513,-0.83829 1.229484,-0.67063 0.502971,0.16766 0.838285,0.72652 0.670627,1.22948 -0.167656,0.55886 -0.726513,0.83829 -1.229484,0.67063 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_93_"
-         class="st2"
-         d="m 21.337808,41.81946 c -0.502971,-0.16765 -0.838284,-0.72651 -0.670627,-1.22948 0.167656,-0.55885 0.726513,-0.83829 1.229483,-0.67063 0.502971,0.16766 0.838285,0.72652 0.670628,1.22949 -0.167657,0.50297 -0.726513,0.7824 -1.229484,0.67062 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_92_"
-         class="st2"
-         d="m 26.535172,42.54598 c -0.50297,-0.16766 -0.838284,-0.72652 -0.670628,-1.22948 0.167658,-0.55886 0.726513,-0.83829 1.229484,-0.67063 0.502971,0.16766 0.838285,0.72651 0.670628,1.22948 -0.167657,0.50297 -0.726514,0.83829 -1.229484,0.67063 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_91_"
-         class="st2"
-         d="m 28.99414,41.76358 c -0.447085,-0.11177 -0.726513,-0.55886 -0.558856,-1.00594 0.111771,-0.44709 0.558856,-0.67063 1.005941,-0.55885 0.447085,0.11176 0.726513,0.55885 0.614742,1.00593 -0.111771,0.44709 -0.614742,0.67063 -1.061827,0.55886 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_90_"
-         class="st2"
-         d="m 19.437697,40.36644 c -0.447085,-0.11177 -0.726514,-0.55886 -0.558857,-1.00594 0.111772,-0.44708 0.558857,-0.67063 1.005942,-0.55886 0.447085,0.11178 0.726513,0.55886 0.558856,1.00594 -0.111771,0.44709 -0.558856,0.67063 -1.005941,0.55886 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_89_"
-         class="st2"
-         d="m 18.040556,38.91342 c -0.335314,-0.11178 -0.558856,-0.4471 -0.502971,-0.7824 0.111771,-0.33532 0.447085,-0.55886 0.838284,-0.44709 0.3912,0.11177 0.558857,0.44709 0.502971,0.78239 -0.05589,0.33532 -0.447085,0.50298 -0.838284,0.4471 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_88_"
-         class="st2"
-         d="m 30.726595,40.64587 c -0.3912,-0.11178 -0.558857,-0.44708 -0.502971,-0.7824 0.111771,-0.33531 0.447085,-0.55886 0.838285,-0.44709 0.391199,0.11178 0.558856,0.44709 0.50297,0.78241 -0.111771,0.39119 -0.50297,0.55885 -0.838284,0.44708 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_87_"
-         class="st2"
-         d="m 17.202271,37.4045 c -0.279428,-0.0559 -0.447085,-0.3912 -0.335314,-0.67063 0.05589,-0.279426 0.3912,-0.447083 0.670628,-0.391195 0.279428,0.05591 0.447085,0.391195 0.335314,0.670625 -0.111772,0.33531 -0.391199,0.50297 -0.670628,0.3912 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_85_"
-         class="st2"
-         d="m 16.755186,36.063249 c -0.223543,-0.05591 -0.391199,-0.335315 -0.335314,-0.55886 0.05589,-0.223546 0.335314,-0.391196 0.558856,-0.279427 0.223543,0.05591 0.3912,0.335315 0.335314,0.558853 -0.05589,0.167657 -0.335314,0.335315 -0.558856,0.279434 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_84_"
-         class="st2"
-         d="m 16.475758,34.777879 c -0.223542,-0.05591 -0.335314,-0.279434 -0.279429,-0.447091 0.05589,-0.167658 0.279429,-0.279427 0.447086,-0.223538 0.223542,0.05591 0.335313,0.279426 0.279428,0.447083 -0.05589,0.167657 -0.279428,0.279427 -0.447085,0.223546 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_83_"
-         class="st2"
-         d="m 32.96202,37.57216 c -0.223543,-0.0559 -0.335314,-0.27943 -0.279428,-0.44709 0.05589,-0.16765 0.279428,-0.27942 0.447085,-0.22354 0.223543,0.0559 0.335314,0.27943 0.279428,0.44708 -0.05589,0.16766 -0.279428,0.27944 -0.447085,0.22355 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_82_"
-         class="st3"
-         d="m 10.384224,37.62805 c 0,0.78239 -0.6147422,1.39713 -1.3412554,1.39713 -0.7265131,0 -1.3412551,-0.61474 -1.3412551,-1.39713 0,-0.7824 0.614742,-1.397151 1.3412551,-1.397151 0.7265132,0.05591 1.3412554,0.670631 1.3412554,1.397151 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_81_"
-         class="st3"
-         d="m 9.8253678,33.604278 c 0,0.782398 -0.6147422,1.397139 -1.3412554,1.397139 -0.7265132,0 -1.3412552,-0.614741 -1.3412552,-1.397139 0,-0.782399 0.614742,-1.397139 1.3412552,-1.397139 0.7265132,0 1.3412554,0.61474 1.3412554,1.397139 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_80_"
-         class="st3"
-         d="m 12.116679,41.09295 c 0,0.7824 -0.614743,1.39714 -1.341256,1.39714 -0.726513,0 -1.341255,-0.61474 -1.341255,-1.39714 0,-0.7824 0.614742,-1.39714 1.341255,-1.39714 0.782399,0.0559 1.341256,0.67063 1.341256,1.39714 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_79_"
-         class="st3"
-         d="m 14.072676,43.83135 c 0,0.67063 -0.502971,1.17359 -1.173599,1.17359 -0.614742,0 -1.173598,-0.50296 -1.173598,-1.17359 0,-0.67063 0.502971,-1.1736 1.173598,-1.1736 0.614742,0 1.173599,0.50297 1.173599,1.1736 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_78_"
-         class="st3"
-         d="m 10.719537,29.915826 c 0,0.670628 -0.50297,1.1736 -1.1735977,1.1736 -0.6147419,0 -1.1735981,-0.502972 -1.1735981,-1.1736 0,-0.670628 0.5029705,-1.173599 1.1735981,-1.173599 0.6147417,0 1.1735977,0.558857 1.1735977,1.173599 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_77_"
-         class="st3"
-         d="m 16.140444,46.01089 c 0,0.61474 -0.447085,1.06182 -1.061827,1.06182 -0.558856,0 -1.061827,-0.50296 -1.061827,-1.06182 0,-0.61474 0.447085,-1.06183 1.061827,-1.06183 0.614742,0 1.061827,0.50298 1.061827,1.06183 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_76_"
-         class="st3"
-         d="m 11.669594,26.898001 c 0,0.614743 -0.447085,1.061827 -1.061828,1.061827 -0.558856,0 -1.0618267,-0.50297 -1.0618267,-1.061827 0,-0.614741 0.4470851,-1.061826 1.0618267,-1.061826 0.558856,0 1.061828,0.50297 1.061828,1.061826 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_75_"
-         class="st3"
-         d="m 19.102383,47.24037 c 0,0.55886 -0.447085,0.95006 -0.950056,0.95006 -0.502971,0 -0.950056,-0.44709 -0.950056,-0.95006 0,-0.55885 0.447085,-0.95006 0.950056,-0.95006 0.502971,-0.0559 0.950056,0.39121 0.950056,0.95006 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_74_"
-         class="st3"
-         d="m 13.178506,24.830236 c 0,0.558853 -0.447086,0.950053 -0.950056,0.950053 -0.502971,0 -0.950056,-0.447086 -0.950056,-0.950053 0,-0.558856 0.447085,-0.950056 0.950056,-0.950056 0.558856,0 0.950056,0.447085 0.950056,0.950056 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_73_"
-         class="st3"
-         d="m 21.729008,47.911 c 0,0.3912 -0.279429,0.72652 -0.670628,0.72652 -0.391199,0 -0.670628,-0.33532 -0.670628,-0.72652 0,-0.3912 0.279429,-0.72651 0.670628,-0.72651 0.391199,0 0.670628,0.33531 0.670628,0.72651 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_72_"
-         class="st3"
-         d="m 14.240332,22.706582 c 0,0.3912 -0.279427,0.726513 -0.670627,0.726513 -0.391199,0 -0.670628,-0.335313 -0.670628,-0.726513 0,-0.391199 0.279429,-0.726513 0.670628,-0.726513 0.335314,0.05589 0.670627,0.391199 0.670627,0.726513 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_71_"
-         class="st3"
-         d="m 23.964433,47.96689 c 0,0.33531 -0.279428,0.61474 -0.558856,0.61474 -0.335314,0 -0.558857,-0.27943 -0.558857,-0.61474 0,-0.33532 0.279428,-0.61474 0.558857,-0.61474 0.335314,0.0559 0.558856,0.27942 0.558856,0.61474 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_70_"
-         class="st3"
-         d="m 15.581588,21.588869 c 0,0.279428 -0.223543,0.502971 -0.502971,0.502971 -0.279428,0 -0.502971,-0.223543 -0.502971,-0.502971 0,-0.279428 0.223543,-0.502971 0.502971,-0.502971 0.279428,0 0.502971,0.223543 0.502971,0.502971 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_69_"
-         class="st3"
-         d="m 16.978728,20.694699 c 0,0.279428 -0.223542,0.502971 -0.50297,0.502971 -0.279429,0 -0.502971,-0.223543 -0.502971,-0.502971 0,-0.279428 0.223542,-0.502971 0.502971,-0.502971 0.279428,-0.05589 0.50297,0.167657 0.50297,0.502971 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_68_"
-         class="st4"
-         d="m 17.872899,41.03706 c 0.335314,0.55886 0.167657,1.22949 -0.335314,1.5648 -0.502971,0.33532 -1.229484,0.16766 -1.564798,-0.39119 -0.335314,-0.55886 -0.167657,-1.22949 0.335314,-1.5648 0.502971,-0.27943 1.229484,-0.11178 1.564798,0.39119 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_67_"
-         class="st4"
-         d="m 15.693359,38.46632 c 0.335314,0.55886 0.167657,1.22949 -0.391199,1.56481 -0.502971,0.33531 -1.229484,0.16766 -1.564798,-0.3912 -0.335314,-0.55886 -0.167657,-1.22949 0.335314,-1.5648 0.614742,-0.33532 1.285369,-0.16766 1.620683,0.39119 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_66_"
-         class="st4"
-         d="m 20.611295,42.76952 c 0.335314,0.55886 0.167657,1.22949 -0.335314,1.5648 -0.50297,0.33531 -1.229484,0.16766 -1.564798,-0.3912 -0.335314,-0.55885 -0.167657,-1.22948 0.335314,-1.5648 0.502971,-0.33531 1.229484,-0.16765 1.564798,0.3912 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_65_"
-         class="st4"
-         d="m 23.070263,43.83135 c 0.279428,0.44708 0.167657,1.06183 -0.335314,1.34125 -0.447085,0.27944 -1.061827,0.11178 -1.341255,-0.33531 -0.279429,-0.44709 -0.167658,-1.06183 0.335314,-1.34125 0.50297,-0.27943 1.117712,-0.11177 1.341255,0.33531 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_64_"
-         class="st4"
-         d="m 14.575646,36.11913 c 0.279429,0.44708 0.167658,1.06183 -0.279428,1.34126 -0.447085,0.27942 -1.061827,0.11177 -1.341255,-0.33532 -0.279428,-0.44708 -0.167657,-1.061821 0.335314,-1.341255 0.447085,-0.223538 1.005941,-0.111769 1.285369,0.335315 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_63_"
-         class="st4"
-         d="m 25.529231,44.44609 c 0.279428,0.3912 0.111771,0.95006 -0.279428,1.22948 -0.3912,0.27943 -0.950057,0.11177 -1.229484,-0.27942 -0.279428,-0.39121 -0.111772,-0.95006 0.279427,-1.22948 0.447086,-0.22355 1.005942,-0.11178 1.229485,0.27942 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_62_"
-         class="st4"
-         d="m 13.960905,33.604278 c 0.279427,0.391203 0.111771,0.950055 -0.279429,1.229482 -0.391199,0.223545 -0.950056,0.111776 -1.229483,-0.279427 -0.279429,-0.391203 -0.111772,-0.950055 0.279427,-1.229482 0.447086,-0.223545 0.950056,-0.111776 1.229485,0.279427 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_61_"
-         class="st4"
-         d="m 28.547055,44.22255 c 0.223543,0.3912 0.111771,0.83828 -0.279428,1.06183 -0.3912,0.22354 -0.838285,0.11177 -1.061827,-0.27944 -0.223543,-0.39119 -0.111772,-0.83827 0.279428,-1.11771 0.335313,-0.16766 0.838285,-0.0559 1.061827,0.33532 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_60_"
-         class="st4"
-         d="m 14.01679,31.257083 c 0.223542,0.391195 0.111771,0.838279 -0.279428,1.117713 -0.3912,0.223538 -0.838285,0.111769 -1.061827,-0.279434 -0.223542,-0.391195 -0.111771,-0.838279 0.279428,-1.061825 0.335314,-0.279426 0.782399,-0.167657 1.061827,0.223546 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_59_"
-         class="st4"
-         d="m 30.27951,43.44015 c 0.167656,0.27942 0.111771,0.61474 -0.167658,0.7824 -0.279427,0.16765 -0.614741,0.0559 -0.782399,-0.22354 -0.167656,-0.27944 -0.11177,-0.61474 0.167658,-0.7824 0.279428,-0.16766 0.614741,-0.0559 0.782399,0.22354 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_58_"
-         class="st4"
-         d="m 14.575646,29.524626 c 0.167658,0.279429 0.111772,0.614744 -0.167656,0.782401 -0.279429,0.167658 -0.614743,0.05591 -0.782399,-0.223545 -0.167658,-0.279427 -0.111772,-0.614741 0.167656,-0.782398 0.279429,-0.167657 0.614743,-0.05589 0.782399,0.223542 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_57_"
-         class="st4"
-         d="m 15.190389,28.351028 c 0.111771,0.223543 0.05589,0.447085 -0.111772,0.558857 -0.167657,0.111771 -0.447085,0.05589 -0.558856,-0.167658 -0.111771,-0.223542 -0.05589,-0.447085 0.111771,-0.558856 0.223543,-0.111771 0.447085,0 0.558857,0.167657 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_56_"
-         class="st4"
-         d="m 16.196329,27.233315 c 0.111772,0.223543 0.05589,0.447085 -0.111771,0.558857 -0.167656,0.111771 -0.447085,0.05589 -0.558855,-0.167658 -0.111772,-0.223541 -0.05589,-0.447084 0.11177,-0.558855 0.167657,-0.111772 0.447085,-0.05589 0.558856,0.167656 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_55_"
-         class="st2"
-         d="m 51.180737,36.90153 c -0.111772,1.34126 -1.341256,2.29131 -2.682511,2.17954 -1.341255,-0.11177 -2.347196,-1.34126 -2.17954,-2.682514 0.111771,-1.341251 1.341256,-2.291306 2.682511,-2.179537 1.341255,0.111769 2.347196,1.341258 2.17954,2.682511 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_54_"
-         class="st2"
-         d="m 50.565995,43.21661 c -0.111771,1.34125 -1.341255,2.29131 -2.682511,2.17954 -1.341255,-0.11177 -2.347196,-1.34126 -2.179539,-2.68251 0.111771,-1.34126 1.341255,-2.29132 2.68251,-2.17955 1.28537,0.16766 2.291311,1.34126 2.17954,2.68252 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_53_"
-         class="st2"
-         d="m 50.174795,29.804055 c -0.111771,1.341251 -1.341255,2.291307 -2.68251,2.179538 -1.341255,-0.111769 -2.347197,-1.341251 -2.17954,-2.682509 0.111772,-1.341256 1.341255,-2.291311 2.68251,-2.17954 1.341256,0.167657 2.291311,1.341255 2.17954,2.682511 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_52_"
-         class="st2"
-         d="m 46.821657,22.930124 c -0.111771,1.28537 -1.229484,2.179537 -2.403082,2.067766 -1.173599,-0.111769 -2.067768,-1.229482 -1.955997,-2.514851 0.111771,-1.285369 1.229483,-2.17954 2.403082,-2.067768 1.229484,0.111771 2.067769,1.229484 1.955997,2.514853 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_51_"
-         class="st2"
-         d="m 48.889426,48.35808 c -0.111772,1.11772 -1.061827,1.956 -2.17954,1.84423 -1.061827,-0.11177 -1.844226,-1.11771 -1.732454,-2.23542 0.111771,-1.11772 1.061826,-1.956 2.179539,-1.84423 1.061827,0.11177 1.844226,1.11771 1.732455,2.23542 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_50_"
-         class="st2"
-         d="m 47.380514,52.38185 c -0.111772,0.95006 -0.89417,1.62068 -1.732455,1.50892 -0.89417,-0.11178 -1.508912,-0.89418 -1.397141,-1.84423 0.111771,-0.95006 0.89417,-1.62069 1.732454,-1.50891 0.894171,0.0559 1.508913,0.89416 1.397142,1.84422 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_49_"
-         class="st2"
-         d="m 37.712299,14.379622 c -0.111771,0.950056 -0.89417,1.620683 -1.732455,1.508912 -0.89417,-0.111771 -1.508912,-0.894169 -1.39714,-1.844226 0.11177,-0.950055 0.894169,-1.620683 1.732454,-1.508912 0.89417,0.111772 1.508912,0.950056 1.397141,1.844226 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_48_"
-         class="st2"
-         d="m 45.480402,55.51144 c -0.05589,0.72652 -0.726513,1.22949 -1.397141,1.11772 -0.726513,-0.0559 -1.229484,-0.72651 -1.173599,-1.39714 0.05589,-0.72651 0.726514,-1.22949 1.397142,-1.11772 0.726513,0.11177 1.229484,0.72652 1.173598,1.39714 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_47_"
-         class="st2"
-         d="m 29.832425,12.032426 c -0.05589,0.726513 -0.726513,1.229483 -1.397141,1.117712 -0.726514,-0.05589 -1.229484,-0.726513 -1.173599,-1.397141 0.05589,-0.670627 0.726514,-1.229484 1.397141,-1.117712 0.726513,0.05589 1.28537,0.670627 1.173599,1.397141 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_46_"
-         class="st2"
-         d="m 43.97149,58.47339 c -0.05589,0.61474 -0.614742,1.06182 -1.173598,1.00593 -0.614743,-0.0559 -1.005942,-0.61474 -0.950056,-1.22948 0.05589,-0.61474 0.614742,-1.06182 1.173598,-1.00594 0.558856,0.0559 1.005941,0.61475 0.950056,1.22949 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_45_"
-         class="st2"
-         d="m 42.127264,60.76469 c -0.05589,0.50297 -0.502971,0.89418 -1.005941,0.83829 -0.502971,-0.0559 -0.838285,-0.50297 -0.782399,-1.00594 0.05589,-0.50297 0.50297,-0.89417 1.005941,-0.83828 0.502971,0.0559 0.838284,0.50297 0.782399,1.00593 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_44_"
-         class="st2"
-         d="m 16.028673,13.764881 c -0.05589,0.50297 -0.50297,0.89417 -1.005942,0.838284 -0.50297,-0.05589 -0.838284,-0.502971 -0.782399,-1.005942 0.05589,-0.50297 0.502972,-0.89417 1.005942,-0.838284 0.50297,0.05589 0.838284,0.50297 0.782399,1.005942 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><ellipse
-         id="XMLID_43_"
-         class="st4"
-         cx="74.822449"
-         cy="109.5"
-         rx="2.4000001"
-         ry="2.5"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         sodipodi:cx="74.822449"
-         sodipodi:cy="109.5"
-         sodipodi:rx="2.4000001"
-         sodipodi:ry="2.5"
-         transform="matrix(0.55885634,0,0,0.55885634,0.92700606,-22.225468)"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         d="m 77.222449,109.5 c 0,1.38071 -1.074517,2.5 -2.4,2.5 -1.325484,0 -2.4,-1.11929 -2.4,-2.5 0,-1.38071 1.074516,-2.5 2.4,-2.5 1.325483,0 2.4,1.11929 2.4,2.5 z" /><path
-         id="XMLID_42_"
-         class="st4"
-         d="m 43.300862,42.49009 c 0,0.55886 -0.447085,1.06183 -1.061827,1.06183 -0.558856,0 -1.061827,-0.50297 -1.061827,-1.06183 0,-0.61474 0.447085,-1.06182 1.061827,-1.06182 0.558857,0 1.061827,0.44708 1.061827,1.06182 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_41_"
-         class="st2"
-         d="m 22.734949,12.088311 c -0.167657,0.670628 -0.89417,1.061827 -1.564798,0.894171 -0.670627,-0.167658 -1.061827,-0.894171 -0.838284,-1.564798 0.167657,-0.670628 0.894169,-1.061827 1.564797,-0.894171 0.670628,0.167658 1.061828,0.894171 0.838285,1.564798 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_40_"
-         class="st2"
-         d="m 40.50658,62.94424 c -0.05589,0.50297 -0.50297,0.89416 -1.005941,0.83828 -0.502971,-0.0559 -0.838285,-0.50297 -0.782399,-1.00594 0.05589,-0.50297 0.502971,-0.89417 1.005942,-0.83829 0.447084,0 0.838284,0.44709 0.782398,1.00595 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_39_"
-         class="st2"
-         d="m 38.327041,64.95612 c -0.05589,0.3912 -0.3912,0.67063 -0.726513,0.61474 -0.3912,-0.0559 -0.614742,-0.3912 -0.614742,-0.7824 0.05589,-0.39119 0.391199,-0.67063 0.726513,-0.61474 0.391199,0.0559 0.670628,0.3912 0.614742,0.7824 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_38_"
-         class="st2"
-         d="m 36.315158,66.46503 c 0,0.27943 -0.279428,0.50297 -0.558856,0.44709 -0.279429,-0.0559 -0.447085,-0.27943 -0.447085,-0.55886 0.05589,-0.27943 0.279428,-0.50298 0.558856,-0.44709 0.279428,0 0.50297,0.27943 0.447085,0.55886 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_37_"
-         class="st2"
-         d="m 42.127264,17.788646 c -0.111771,1.285369 -1.229484,2.17954 -2.403082,2.067768 -1.173599,-0.111771 -2.067769,-1.229484 -1.955998,-2.514853 0.111771,-1.28537 1.229484,-2.17954 2.403082,-2.067769 1.173599,0.111772 2.067769,1.229485 1.955998,2.514854 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_36_"
-         class="st2"
-         d="m 33.800305,12.814824 c -0.111772,0.950057 -0.894171,1.620684 -1.732456,1.508913 -0.894169,-0.111771 -1.508911,-0.89417 -1.39714,-1.844227 0.111771,-0.894169 0.89417,-1.564797 1.732454,-1.453026 0.894171,0.05589 1.508913,0.894171 1.397142,1.78834 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_35_"
-         class="st2"
-         d="m 26.367516,11.697112 c -0.05589,0.726513 -0.726514,1.229484 -1.397142,1.117712 -0.726513,-0.05589 -1.229483,-0.670627 -1.173598,-1.39714 0.05589,-0.726513 0.726513,-1.229485 1.397141,-1.117713 0.726513,0.05589 1.28537,0.670627 1.173599,1.397141 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_34_"
-         class="st2"
-         d="m 19.158268,12.87071 c -0.167656,0.670628 -0.894169,1.061827 -1.564797,0.894171 -0.670628,-0.167658 -1.061828,-0.894171 -0.838285,-1.564798 0.167657,-0.670628 0.89417,-1.061827 1.564798,-0.894171 0.670628,0.223543 1.061827,0.894171 0.838284,1.564798 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_33_"
-         class="st4"
-         d="m 43.803833,31.089426 c 0,1.005936 -0.726513,1.788342 -1.676569,1.788342 -0.950056,0 -1.676569,-0.782406 -1.676569,-1.788342 0,-1.005944 0.726513,-1.788342 1.676569,-1.788342 0.950056,0 1.676569,0.782398 1.676569,1.788342 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_32_"
-         class="st4"
-         d="m 44.195033,35.224962 c 0,0.950056 -0.726514,1.676568 -1.564798,1.676568 -0.894171,0 -1.564798,-0.7824 -1.564798,-1.676568 0,-0.950055 0.726513,-1.676573 1.564798,-1.676573 0.838284,0 1.564798,0.726518 1.564798,1.676573 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_31_"
-         class="st4"
-         d="m 35.476873,19.185787 c 0,0.782399 -0.614741,1.39714 -1.341254,1.39714 -0.726514,0 -1.341256,-0.614741 -1.341256,-1.39714 0,-0.782399 0.614742,-1.397141 1.341256,-1.397141 0.726513,0 1.341254,0.614742 1.341254,1.397141 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_30_"
-         class="st4"
-         d="m 42.797892,45.39615 c 0,0.61474 -0.447085,1.06182 -1.061828,1.06182 -0.558856,0 -1.061826,-0.50297 -1.061826,-1.06182 0,-0.61474 0.447085,-1.06183 1.061826,-1.06183 0.614743,-0.0559 1.061828,0.44709 1.061828,1.06183 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_29_"
-         class="st4"
-         d="m 41.959607,47.911 c 0,0.55886 -0.447085,0.95005 -0.950056,0.95005 -0.502971,0 -0.950055,-0.44708 -0.950055,-0.95005 0,-0.55885 0.447084,-0.95006 0.950055,-0.95006 0.502971,0 0.950056,0.44709 0.950056,0.95006 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_28_"
-         class="st4"
-         d="m 40.730123,50.48174 c 0,0.3912 -0.335314,0.72651 -0.726513,0.72651 -0.391199,0 -0.726513,-0.33531 -0.726513,-0.72651 0,-0.3912 0.335314,-0.72651 0.726513,-0.72651 0.447085,0 0.726513,0.33531 0.726513,0.72651 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_27_"
-         class="st4"
-         d="m 38.550583,22.147725 c 0,1.005942 -0.726513,1.788341 -1.676568,1.788341 -0.950057,0 -1.67657,-0.782399 -1.67657,-1.788341 0,-1.005941 0.726513,-1.78834 1.67657,-1.78834 0.894169,0 1.676568,0.782399 1.676568,1.78834 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_26_"
-         class="st4"
-         d="m 42.127264,26.115602 c 0,1.285371 -1.005941,2.291311 -2.179539,2.291311 -1.229485,0 -2.179541,-1.00594 -2.179541,-2.291311 0,-1.285366 0.950056,-2.291307 2.179541,-2.291307 1.173598,0 2.179539,1.061826 2.179539,2.291307 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_25_"
-         class="st4"
-         d="m 32.347278,17.341561 c 0,0.614742 -0.447085,1.061827 -1.061827,1.061827 -0.558856,0 -1.061827,-0.502971 -1.061827,-1.061827 0,-0.614742 0.447085,-1.061827 1.061827,-1.061827 0.558857,0 1.061827,0.447085 1.061827,1.061827 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_24_"
-         class="st4"
-         d="m 29.664767,16.335619 c 0,0.558857 -0.447084,0.950057 -0.950055,0.950057 -0.502971,0 -0.950056,-0.447086 -0.950056,-0.950057 0,-0.558856 0.447085,-0.950055 0.950056,-0.950055 0.558856,-0.05589 0.950055,0.391199 0.950055,0.950055 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_23_"
-         class="st4"
-         d="m 27.149914,15.832649 c 0,0.391199 -0.335314,0.726513 -0.726513,0.726513 -0.391199,0 -0.726513,-0.335314 -0.726513,-0.726513 0,-0.3912 0.335314,-0.726514 0.726513,-0.726514 0.391199,0 0.726513,0.335314 0.726513,0.726514 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_22_"
-         class="st4"
-         d="m 24.523289,15.720878 c 0,0.335313 -0.279428,0.614741 -0.614742,0.614741 -0.335314,0 -0.614741,-0.279428 -0.614741,-0.614741 0,-0.335314 0.279427,-0.614743 0.614741,-0.614743 0.391199,0 0.614742,0.279429 0.614742,0.614743 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_21_"
-         class="st2"
-         d="m 13.12262,15.217906 c -0.05589,0.502972 -0.502971,0.894171 -1.005941,0.838285 -0.502971,-0.05589 -0.838285,-0.502971 -0.782399,-1.005941 0.05589,-0.50297 0.50297,-0.89417 1.005941,-0.838284 0.502971,0.05589 0.838285,0.50297 0.782399,1.00594 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_20_"
-         class="st2"
-         d="m 10.663652,16.894476 c -0.05589,0.3912 -0.3912,0.670627 -0.7265129,0.614742 -0.3911998,-0.05589 -0.6147424,-0.3912 -0.6147424,-0.782399 0.055888,-0.3912 0.3911999,-0.670628 0.7265133,-0.614742 0.3912,0.05589 0.614742,0.447085 0.614742,0.782399 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_19_"
-         class="st2"
-         d="M 8.6517693,19.129901 C 8.5958837,19.409329 8.3723412,19.632872 8.092913,19.576987 7.8134848,19.5211 7.6458279,19.297558 7.6458279,19.01813 c 0.055885,-0.279428 0.2794282,-0.502971 0.5588563,-0.447085 0.2794282,0 0.4470851,0.279428 0.4470851,0.558856 z"
-         inkscape:connector-curvature="0"
-         style="fill:#300024;fill-opacity:1;opacity:1"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_18_"
-         class="st4"
-         d="m 39.444753,52.21419 c 0,0.22355 -0.167656,0.44709 -0.447085,0.44709 -0.223542,0 -0.447085,-0.22354 -0.447085,-0.44709 0,-0.22354 0.223543,-0.44708 0.447085,-0.44708 0.223543,0 0.447085,0.22354 0.447085,0.44708 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_17_"
-         class="st4"
-         d="m 22.343749,16.279734 c 0,0.223543 -0.167656,0.447085 -0.447085,0.447085 -0.223542,0 -0.447085,-0.223542 -0.447085,-0.447085 0,-0.223543 0.167657,-0.447085 0.447085,-0.447085 0.223543,0 0.447085,0.223542 0.447085,0.447085 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_16_"
-         class="st3"
-         d="m 25.305688,48.24631 c -0.279428,-0.11177 -0.447085,-0.3912 -0.391199,-0.67063 0.05589,-0.27942 0.391199,-0.44708 0.670628,-0.33531 0.279427,0.11178 0.447085,0.3912 0.391199,0.67063 -0.05589,0.27943 -0.335314,0.44708 -0.670628,0.33531 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_15_"
-         class="st3"
-         d="m 27.094028,47.68746 c -0.223542,-0.0559 -0.391199,-0.27943 -0.335313,-0.50297 0.05589,-0.22355 0.279427,-0.33532 0.558856,-0.27943 0.223543,0.0559 0.391199,0.27943 0.335314,0.50297 -0.111771,0.22354 -0.335314,0.33531 -0.558857,0.27943 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_14_"
-         class="st3"
-         d="m 38.606469,36.78976 c 0.111771,0.61474 -0.279428,1.22948 -0.89417,1.34126 -0.614742,0.11177 -1.229484,-0.27944 -1.341256,-0.89418 -0.111771,-0.61474 0.279429,-1.229479 0.894171,-1.341248 0.558856,-0.111777 1.173598,0.279426 1.341255,0.894168 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_13_"
-         class="st3"
-         d="m 38.494698,33.380732 c 0,0.838287 -0.614743,1.453028 -1.397141,1.453028 -0.782399,0 -1.397141,-0.67063 -1.397141,-1.508909 0,-0.838286 0.614742,-1.453027 1.397141,-1.453027 0.838284,0 1.453026,0.670629 1.397141,1.508908 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_12_"
-         class="st3"
-         d="m 32.459049,23.544866 c 0,0.670628 -0.558856,1.173599 -1.173598,1.173599 -0.670627,0 -1.173599,-0.558857 -1.173599,-1.229484 0,-0.670628 0.558857,-1.173598 1.173599,-1.173598 0.614742,0 1.173598,0.558856 1.173598,1.229483 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_11_"
-         class="st3"
-         d="m 38.438812,39.91935 c 0.111771,0.55886 -0.223543,1.06183 -0.782399,1.1736 -0.558856,0.11177 -1.061827,-0.22354 -1.173598,-0.7824 -0.111772,-0.55886 0.223542,-1.06182 0.782399,-1.1736 0.50297,-0.11177 1.005941,0.27943 1.173598,0.7824 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_9_"
-         class="st3"
-         d="m 36.594586,44.83729 c 0.05589,0.27943 -0.111771,0.55886 -0.391199,0.61475 -0.279429,0.0559 -0.558856,-0.11178 -0.614742,-0.39121 -0.05589,-0.27942 0.111771,-0.55885 0.391199,-0.61474 0.279428,-0.0559 0.558857,0.11177 0.614742,0.3912 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_8_"
-         class="st3"
-         d="m 35.029788,26.28326 c 0,0.782399 -0.670627,1.39714 -1.453026,1.39714 -0.782399,0 -1.453027,-0.670627 -1.397141,-1.39714 0,-0.782399 0.670627,-1.397139 1.453026,-1.397139 0.782399,0 1.397141,0.61474 1.397141,1.397139 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_7_"
-         class="st3"
-         d="m 37.376985,29.412855 c 0,0.894172 -0.726513,1.620682 -1.564798,1.620682 -0.838284,0 -1.564797,-0.72651 -1.508912,-1.676567 0,-0.894171 0.726513,-1.620684 1.564798,-1.620684 0.838284,0.05589 1.508912,0.782399 1.508912,1.676569 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_6_"
-         class="st3"
-         d="m 29.441225,22.147725 c 0,0.502971 -0.391199,0.838285 -0.838285,0.838285 -0.447085,0 -0.838284,-0.3912 -0.838284,-0.89417 0,-0.502971 0.391199,-0.838285 0.838284,-0.838285 0.447086,0.05589 0.838285,0.447085 0.838285,0.89417 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_5_"
-         class="st3"
-         d="m 26.758715,21.365326 c 0,0.3912 -0.335314,0.726514 -0.726513,0.726514 -0.3912,0 -0.726514,-0.335314 -0.726514,-0.726514 0,-0.391199 0.335314,-0.726513 0.726514,-0.726513 0.391199,0 0.726513,0.335314 0.726513,0.726513 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/gpinto/FORMLY/plantillas-formly-backend/public/XMLID_4_.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /><path
-         id="XMLID_4_"
-         class="st3"
-         d="m 24.187975,21.253555 c 0,0.279429 -0.223542,0.558856 -0.50297,0.502971 -0.279428,0 -0.502971,-0.223542 -0.502971,-0.558856 0,-0.279429 0.223543,-0.558857 0.502971,-0.502971 0.279428,0 0.50297,0.223542 0.50297,0.558856 z"
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#300024;fill-opacity:1;enable-background:new"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" /></g></g></svg>
+     inkscape:current-layer="svg3767" />
+  <image
+     width="349"
+     height="83"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeQuality"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV0AAABTCAYAAAA89dRzAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
+NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
+IiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RS
+ZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpD
+cmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFu
+Y2VJRD0ieG1wLmlpZDoxQUFDNjZFNUE0NEUxMUU3ODQwM0UwNkQxMTYxMTFCMCIgeG1wTU06RG9j
+dW1lbnRJRD0ieG1wLmRpZDoxQUFDNjZFNkE0NEUxMUU3ODQwM0UwNkQxMTYxMTFCMCI+IDx4bXBN
+TTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjFBQUM2NkUzQTQ0RTExRTc4
+NDAzRTA2RDExNjExMUIwIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjFBQUM2NkU0QTQ0RTEx
+RTc4NDAzRTA2RDExNjExMUIwIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4
+bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+DNJ5SgAAGyRJREFUeNrsXQeYFUW2rmFQYIgOOYgw
+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
+"
+     id="image3775"
+     x="0"
+     y="0" />
+</svg>
